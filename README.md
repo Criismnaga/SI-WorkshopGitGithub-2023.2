@@ -65,14 +65,19 @@
   <dd>Mostra as alterações linha a linha dos arquivos modificados e ainda não foram adicionados ao staging area.<br>
   Temos também algumas variações do comando, por exemplo:<br>
   <ul>
-    <li>git diff <branch1> <branch2> -> compara 2 branchs</li>
-    <li>git diff <commit_hash1> <commit_hash2> -> compara 2 commits</li>
+    <li>git diff "branch1" "branch2" -> compara 2 branchs</li>
+    <li>git diff "commit_hash1" "commit_hash2" -> compara 2 commits</li>
     <li>git diff --name-only -> Em vez de mostrar linha a linha mostra apenas o nome dos arquivos alterados. (pode ser usado em conjunto com as outras variações)</li>
   </ul>
   </dd>
   <dt>git reset HEAD</dt>
   <dd>Remove todos os arquivos da área de preparação (staging area), permitindo que você repense quais alterações deseja incluir no próximo commit.</dd>
 </dl>
+
+##
+<h2>Autores:</h2>
+<h3><a href="https://github.com/Criismnaga">Cristina Matsunaga</a></h3>
+<h3><a href="https://github.com/LucasGdBS">Lucas Gabriel</a></h3>
 
 
 
