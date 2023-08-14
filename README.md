@@ -39,6 +39,20 @@
   <dd>Para setar o email do usuário. (O email da sua conta do github)</dd>
 </dl>
 
+##
+
+<h2>Trabalhando com branchs</h2>
+<h3>Branchs são como novas linhas do tempo onde é possivel alterar o código sem mexer na branch main</h3>
+<dl>
+  <dt>git checkout -b NomeDaNovaBranch</dt>
+  <dd>Cria uma nova branch a partir da branch atual</dd>
+  <dt>git checkout NomeDaBranch</dt>
+  <dd>Troca para a branch escolhida</dd>
+  <dt>git branch -D NomeDaBranch</dt>
+  <dd>Apaga a branch escolhida</dd>
+  
+</dl>
+
 
 
 
