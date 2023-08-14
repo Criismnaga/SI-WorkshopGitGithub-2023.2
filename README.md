@@ -30,7 +30,8 @@
 <dl>
   <dt>
     
-    git add "nome do arquivo"</dt>
+    git add "nome do arquivo"
+  </dt>
   <dd>Adiciona o arquivo ao nosso "setor de mudanças" (staging area) que iremos enviar para o repositório na nuvem. (Aqui vai uma dica: se usar um . no nome do arquivo irá adicionar todos os arquivos alterados)</dd>
   <dt>
     
@@ -72,19 +73,23 @@
 <dl>
   <dt>
     
-    git checkout -b NomeDaNovaBranch</dt>
+    git checkout -b NomeDaNovaBranch
+  </dt>
   <dd>Cria uma nova branch a partir da branch atual</dd>
   <dt>
     
-    git checkout NomeDaBranch</dt>
+    git checkout NomeDaBranch
+  </dt>
   <dd>Troca para a branch escolhida</dd>
   <dt>
     
-    git branch -D NomeDaBranch</dt>
+    git branch -D NomeDaBranch
+  </dt>
   <dd>Apaga a branch escolhida</dd>
   <dt>
     
-    git merge "branch para mesclar"</dt>
+    git merge "branch para mesclar"
+  </dt>
   <dd>Mescla 2 branchs</dd>
   
 </dl>
@@ -95,11 +100,13 @@
 <dl>
   <dt>
     
-    git status</dt>
+    git status
+  </dt>
   <dd>Compara seu repositório local com o remoto e diz como está</dd>
   <dt>
     
-    git diff</dt>
+    git diff
+  </dt>
   <dd>Mostra as alterações linha a linha dos arquivos modificados e ainda não foram adicionados ao staging area.<br>
   Temos também algumas variações do comando, por exemplo:<br>
   <ul>
@@ -120,7 +127,8 @@
   </dd>
   <dt>
     
-    git reset HEAD</dt>
+    git reset HEAD
+  </dt>
   <dd>Remove todos os arquivos da área de preparação (staging area), permitindo que você repense quais alterações deseja incluir no próximo commit.</dd>
 </dl>
 
