@@ -20,7 +20,7 @@
 > Nesse caso, vamos precisar de 3 comandos super simples
 <dl>
   <dt>git add "nome do arquivo"</dt>
-  <dd>Adiciona o arquivo ao nosso "setor de mudanças" que iremos enviar para o repositório na nuvem. (Aqui vai uma dica: se usar um . no nome do arquivo irá adicionar todos os arquivos alterados)</dd>
+  <dd>Adiciona o arquivo ao nosso "setor de mudanças" (staging area) que iremos enviar para o repositório na nuvem. (Aqui vai uma dica: se usar um . no nome do arquivo irá adicionar todos os arquivos alterados)</dd>
   <dt>git commit -m "mensagem do commit"</dt>
   <dd>O commit vai agrupar todos os arquivos que estão no nosso "setor de mudanças" e colocar um nome neles. (A mensagem do commit é muito importante para que outras pessoas possam entender do que se trata aquele commit)</dd>
   <dt>git push</dt>
@@ -50,8 +50,30 @@
   <dd>Troca para a branch escolhida</dd>
   <dt>git branch -D NomeDaBranch</dt>
   <dd>Apaga a branch escolhida</dd>
+  <dt>git merge "branch para mesclar"</dt>
+  <dd>Mescla 2 branchs</dd>
   
 </dl>
+
+##
+<h2>Comandos úteis</h2>
+<h3></h3>
+<dl>
+  <dt>git status</dt>
+  <dd>Compara seu repositório local com o remoto e diz como está</dd>
+  <dt>git diff</dt>
+  <dd>Mostra as alterações linha a linha dos arquivos modificados e ainda não foram adicionados ao staging area.<br>
+  Temos também algumas variações do comando, por exemplo:<br>
+  <ul>
+    <li>git diff <branch1> <branch2> -> compara 2 branchs</li>
+    <li>git diff <commit_hash1> <commit_hash2> -> compara 2 commits</li>
+    <li>git diff --name-only -> Em vez de mostrar linha a linha mostra apenas o nome dos arquivos alterados. (pode ser usado em conjunto com as outras variações)</li>
+  </ul>
+  </dd>
+  <dt>git reset HEAD</dt>
+  <dd>Remove todos os arquivos da área de preparação (staging area), permitindo que você repense quais alterações deseja incluir no próximo commit.</dd>
+</dl>
+
 
 
 
