@@ -1,6 +1,6 @@
 # Material Git e GitHub: do zero ao push
 
-<h2>Começando pelo básico</h2>
+<h2>Começando pelo básico 📁🐙</h2>
 <h3>Geralmente quando vamos começar um novo projeto precisamos iniciar ou clonar um repositorio</h3>
 <dl>
   <dt>git init</dt>
@@ -28,7 +28,7 @@
 </dl>
 
 ##
-<h2>Configurações iniciais</h2>
+<h2>Configurações iniciais ⚙️🛠️</h2>
 <h3>Sempre que for configurar seu ambiente git em um novo computador é necessario fazer algumas configurações iniciais</h3>
 <dl>
   <dt>git config --global --list</dt>
@@ -41,7 +41,7 @@
 
 ##
 
-<h2>Trabalhando com branchs</h2>
+<h2>Trabalhando com branchs 🌿🔀</h2>
 <h3>Branchs são como novas linhas do tempo onde é possivel alterar o código sem mexer na branch main</h3>
 <dl>
   <dt>git checkout -b NomeDaNovaBranch</dt>
@@ -56,7 +56,7 @@
 </dl>
 
 ##
-<h2>Comandos úteis</h2>
+<h2>Comandos úteis 🛠️📝</h2>
 <h3></h3>
 <dl>
   <dt>git status</dt>
