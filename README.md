@@ -1,12 +1,12 @@
 # Material Git e GitHub: do zero ao push
 
 <h2>Começando pelo básico</h2>
-<h3>Geralmente quando vamos começar um nove projeto precisamos iniciar ou clonar um repositorio</h3>
+<h3>Geralmente quando vamos começar um novo projeto precisamos iniciar ou clonar um repositorio</h3>
 <dl>
   <dt>git init</dt>
   <dd>Transforma a pasta escolhida em um repositorio git</dd>
-  <dt>git clone <i>"chave HTTP"</i> </dt>
-  <dd>Clona um repositorio já existente para a pasta escolhida</dd>
+  <dt>git clone <i>"chave HTTP"</i> "NomeDaPastaQueVoceQuer" </dt>
+  <dd>Clona um repositorio já existente</dd>
 </dl>
 
 <h3>Repositório criado, precisamos "puxar" mudanças, caso tenha alguma, no arquivo</h3>
@@ -26,4 +26,26 @@
   <dt>git push</dt>
   <dd>Envia seus commits para o repositório remoto.</dd>
 </dl>
+
+##
+<h2>Configurações iniciais</h2>
+<h3>Sempre que for configurar seu ambiente git em um novo computador é necessario fazer algumas configurações iniciais</h3>
+<dl>
+  <dt>git config --global --list</dt>
+  <dd>Lista todas as configurações atuais</dd>
+  <dt>git config --global user.name "seu nome"</dt>
+  <dd>Para setar o nome do usuário</dd>
+  <dt>git config --global user.email "seu email"</dt>
+  <dd>Para setar o email do usuário. (O email da sua conta do github)</dd>
+</dl>
+
+
+
+
+
+
+
+
+
+
 
