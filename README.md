@@ -1,14 +1,13 @@
 # Material Git e GitHub: do zero ao push
 <dd>Esse repositório é um com material de apoio do Workshop "Git e Github: do Zero ao Push" ministrado na Semana de Imersão 2023.2 da Cesar School em Recife-PE.</dd>
-
 <br/>
 <dd>É possível conferir o conteúdo da palestra no link ao lado: <a href="https://www.canva.com/design/DAFq4wix2Hw/0xtt40B6VSb9itnp6E8SSg/view?utm_content=DAFq4wix2Hw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">Slides da palestra</a></dd>
 <br/>
 <dd>Em caso de dúvidas optem por conferir a documentação oficial do git. Pode parecer complexo no início mas é algo muito rotineiro na vida do desenvolvedor de software quanto antes se pegar o jeito com as documentações melhor:</dd>
 <br/>
 <dd>Documentação oficial do git: <a href="https://git-scm.com/doc">git-scm.com</a></dd>
-<br/>
-<dd>Então vamos para a parte prática!</dd>
+<br>
+<dd><br>Então vamos para a parte prática!</dd>
 
 <h2>📁🐙Começando pelo básico</h2>
 <h3>Geralmente quando vamos começar um novo projeto precisamos iniciar ou clonar um repositorio</h3>
