@@ -136,14 +136,14 @@
   </dd>
   <dt>
     
-    git reset HEAD  ygygyg
+    git reset HEAD
   </dt>
   <dd>Remove todos os arquivos da área de preparação (staging area), permitindo que você repense quais alterações deseja incluir no próximo commit.</dd>
   <dt>
     
     git restore nomeDoArquivo
   </dt>
-  <dd>Descarta todas as alterações dos arquivos que foram alterados no seu repositório local,       permitindo que você volte ao estado do último commit do repositório remoto. Você pode subustituir o nome do aquivo por . e isso acontecerá com todos os arquivos.</dd>
+  <dd>Descarta todas as alterações dos arquivos que foram alterados no seu repositório local, permitindo que você volte ao estado do último commit do repositório remoto. Você pode subustituir o nome do aquivo por . e isso acontecerá com todos os arquivos.</dd>
  
   </dl>
 
