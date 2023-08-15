@@ -1,5 +1,5 @@
 # Material Git e GitHub: do zero ao push
-<dd>Esse repositório é um com material de apoio do Workshop "Git e Github: do Zero ao Push" ministrado na Semana de Imersão 2023.2 da Cesar School em Recife-PE.</dd>
+<dd>Esse repositório é um material de apoio do Workshop "Git e Github: do Zero ao Push" ministrado na Semana de Imersão 2023.2 da Cesar School em Recife-PE.</dd>
 <br/>
 <dd>É possível conferir o conteúdo da palestra no link ao lado: <a href="https://www.canva.com/design/DAFq4wix2Hw/0xtt40B6VSb9itnp6E8SSg/view?utm_content=DAFq4wix2Hw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">Slides da palestra</a></dd>
 <br/>
