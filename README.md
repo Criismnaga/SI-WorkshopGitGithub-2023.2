@@ -7,9 +7,8 @@
 <dd>Em caso de dúvidas optem por conferir a documentação oficial do git. Pode parecer complexo no início mas é algo muito rotineiro na vida do desenvolvedor de software quanto antes se pegar o jeito com as documentações melhor:</dd>
 <br/>
 <dd>Documentação oficial do git: <a href="https://git-scm.com/doc">git-scm.com</a></dd>
-</dd>
-
-Então vamos para a parte prática!
+<br/>
+<dd>Então vamos para a parte prática!</dd>
 
 <h2>📁🐙Começando pelo básico</h2>
 <h3>Geralmente quando vamos começar um novo projeto precisamos iniciar ou clonar um repositorio</h3>
@@ -138,24 +137,19 @@ Então vamos para a parte prática!
   </dd>
   <dt>
     
-    git reset HEAD
+    git reset HEAD  ygygyg
   </dt>
   <dd>Remove todos os arquivos da área de preparação (staging area), permitindo que você repense quais alterações deseja incluir no próximo commit.</dd>
-</dl>
+  <dt>
+    
+    git restore nomeDoArquivo
+  </dt>
+  <dd>Descarta todas as alterações dos arquivos que foram alterados no seu repositório local,       permitindo que você volte ao estado do último commit do repositório remoto. Você pode subustituir o nome do aquivo por . e isso acontecerá com todos os arquivos.</dd>
+ 
+  </dl>
 
 ##
 <h2>Autores:</h2>
 <h3><a href="https://github.com/Criismnaga">Cristina Matsunaga</a></h3>
 <h3><a href="https://github.com/LucasGdBS">Lucas Gabriel</a></h3>
-
-
-
-
-
-
-
-
-
-
-
 
