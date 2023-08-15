@@ -149,7 +149,7 @@
 
 ##
 <h2>📝⌨️ Outras dicas</h2>
-<dd>Ao utilizar o git é bem prático utilizar alguns comandos de linha (command lines) do sistema operacional para criar pastas e arquivos e navegar por eles. Abaixo segue um link com um resumo bem prático sobre esses comandos:</dd>
+<dd>Ao utilizar o git é bem prático utilizar comandos de linha (command lines) do sistema operacional para criar pastas e arquivos e navegar por eles. Abaixo segue um link com um resumo direto ao ponto sobre esses comandos:</dd>
 <br>
 <dd><a href="https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/">Link Windows</a>   |   Mac/Linux (Em breve)</dd>
 
