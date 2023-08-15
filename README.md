@@ -7,7 +7,7 @@
 <br/>
 <dd>Documentação oficial do git: <a href="https://git-scm.com/doc">git-scm.com</a></dd>
 <br>
-<dd><br>Então vamos para a parte prática!</dd>
+<dd>Então vamos para a parte prática!</dd>
 
 <h2>📁🐙Começando pelo básico</h2>
 <h3>Geralmente quando vamos começar um novo projeto precisamos iniciar ou clonar um repositorio</h3>
