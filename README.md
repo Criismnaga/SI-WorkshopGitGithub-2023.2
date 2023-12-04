@@ -1,4 +1,4 @@
-![Logo github_0_push1](https://github.com/Criismnaga/SI-WorkshopGitGithub-2023.2/assets/114539692/fccf0649-bd3d-4653-8d02-af611fb074c3)
+![Logo github_0_push1](https://github.com/Criismnaga/SI-WorkshopGitGithub-2023.2/assets/114539692/fccf0649-bd3d-4653-8d02-af611fb074c3) <!-- markdownlint-disable MD041 -->
 
 # Material Git e GitHub: do zero ao push
 
@@ -123,6 +123,12 @@ git branch
 
 ## 🛠️📝 Comandos úteis
 
+Lista todos os commits feitos no repositório. Com isso você pode ver o hash de cada commit e usar ele para fazer outras operações (OBS: Use **"q"** para sair do modo de visualização)
+
+```bash
+git log
+```
+
 Compara seu repositório local com o remoto e identifica quais as alterações que você fez
 
 ```bash
@@ -167,6 +173,12 @@ Descarta todas as alterações dos arquivos que foram alterados no seu repositó
 git restore nomeDoArquivo
 ```
 
+Existem situações em que precisamos voltar para um commit anterior. Para isso podemos usar o comando abaixo. (OBS: Use com cuidado pois não tem como recuperar os arquivos depois)
+
+```bash
+git reset --hard commit_hash
+```
+
 ## 📝⌨️ Outras dicas
 
 Ao utilizar o git é bem prático utilizar comandos de linha (command lines) do sistema operacional para criar pastas e arquivos e navegar por eles. Abaixo segue um link com um resumo direto ao ponto sobre esses comandos:
@@ -175,6 +187,8 @@ Ao utilizar o git é bem prático utilizar comandos de linha (command lines) do 
 [Linux/Mac](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ## 👥 Autores
+
+> Se você tiver qualquer dúvida ou sugestão, não hesite em entrar em contato com a gente!
 
 Lucas Gabriel
 
