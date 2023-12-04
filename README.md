@@ -1,3 +1,5 @@
+![Logo github_0_push1](https://github.com/Criismnaga/SI-WorkshopGitGithub-2023.2/assets/114539692/fccf0649-bd3d-4653-8d02-af611fb074c3)
+
 # Material Git e GitHub: do zero ao push
 
 Esse repositório é um material de apoio do Workshop "Git e Github: do Zero ao Push" ministrado na Semana de Imersão 2023.2 da Cesar School em Recife-PE.
